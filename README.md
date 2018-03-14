@@ -1,6 +1,6 @@
 ## CE9010: Introduction to Data Science <br> Semester 2 2017/18 <br> Xavier Bresson
   
-<br>
+<br> 
 <br>
 
 ## Install Python  
@@ -73,7 +73,8 @@ The following times:
 
 ## Run Python notebooks with Binder
 
-&nbsp;&nbsp;&nbsp; [Click here]
+&nbsp;&nbsp;&nbsp; No Python installation needed to run the notebooks: Simply [click here]
+
 
 [Click here]: https://mybinder.org/v2/gh/xbresson/CE9010_2018/master
 
